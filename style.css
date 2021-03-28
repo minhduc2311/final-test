@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#container {
+    width: 40%;
+    margin-left: 30%;
+    text-align: center;
+}
+
+p.title {
+    font-size: 50px;
+    background-color: #bd2000;
+    color: white;
+}
+
+.content {
+    padding: 20px;
+    background-color: #ffbe0f;
+    font-size: 110%;
+    
+}
+
+.content p {
+    margin-bottom: 20px;
+}
+
+input {
+    width: 250px;
+    height: 40px;
+    color: grey;
+
+}
+
+button {
+    width: 100px;
+    height: 40px;
+    background-color: #fa1e0e;
+    border-radius: 5px;
+}
